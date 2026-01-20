@@ -1,0 +1,17 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
